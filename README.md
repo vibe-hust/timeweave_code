@@ -6,7 +6,7 @@
 
 **HUST · CWI · University of Trento**
 
-[📄 Paper + supplement](https://vibe-hust.github.io/ontime_page/TimeWeave-paper.pdf) · [🎬 Project and videos](https://vibe-hust.github.io/ontime_page/)
+[📄 Paper + supplement](https://vibe-hust.github.io/timeweave_page/TimeWeave-paper.pdf) · [🎬 Project and videos](https://vibe-hust.github.io/timeweave_page/)
 
 ## 💡 Method
 
@@ -15,7 +15,7 @@ TimeWeave turns action schedules into long videos with a causal generator traine
 - **Rolling Timeline Conditioning (RTC):** each block sees nearby actions, with their original global intervals preserved.
 - **Global Context Anchoring (GCA):** scene and participant descriptions remain untimed and share attention with the scheduled actions.
 
-![Method overview](https://vibe-hust.github.io/ontime_page/method.png)
+![Method overview](https://vibe-hust.github.io/timeweave_page/method.png)
 
 ## 📦 Release scope
 
@@ -75,7 +75,7 @@ We build on [Wan](https://github.com/Wan-Video/Wan2.2), [LongLive](https://githu
   author={Chen, Yang and Qu, Chengsong and Li, Runting and Zhou, Xuemei and Long, Teng and Hu, Vincent Tao},
   year={2026},
   howpublished={Research preprint},
-  url={https://vibe-hust.github.io/ontime_page/}
+  url={https://vibe-hust.github.io/timeweave_page/}
 }
 ```
 

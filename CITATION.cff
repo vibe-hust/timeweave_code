@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "Please cite the TimeWeave preprint if you use this code."
 title: "Global Time, Local Blocks: Generating Minute-Long Videos from Action Schedules"
 type: software
-repository-code: "https://github.com/vibe-hust/ontime_code"
-url: "https://vibe-hust.github.io/ontime_page/"
+repository-code: "https://github.com/vibe-hust/timeweave_code"
+url: "https://vibe-hust.github.io/timeweave_page/"
 authors:
   - family-names: "Chen"
     given-names: "Yang"
