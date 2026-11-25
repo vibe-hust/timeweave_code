@@ -1,0 +1,49 @@
+{
+  "duration": 30,
+  "prompt": [
+    [
+      0,
+      0,
+      0.0,
+      5.0,
+      9.0,
+      13.0,
+      17.0,
+      22.0,
+      26.0
+    ],
+    [
+      30,
+      30,
+      5.0,
+      9.0,
+      13.0,
+      17.0,
+      22.0,
+      26.0,
+      30.0
+    ],
+    [
+      "An empty concrete court has a damp sheen and faded white rectangular markings. Red-roofed single-story houses stand among green trees beneath an overcast sky. A blue bicycle has a visible side stand, and a black helmet hangs from the handlebar from the start. The court provides room for a short walk beside the bicycle.",
+      "person_1 is a young man with short dark hair, wearing a purple-and-light-blue patterned sleeveless cycling jersey and black cycling shorts with a small leg logo. At the start, person_1 stands beside the blue frame with the left hand on the handlebar.",
+      "person_1 walks the blue bicycle along one faded white line, keeping the left hand on the handlebar and the right hand near the saddle.",
+      "person_1 slows to a stop, holds the brake and turns the front wheel slightly so the bicycle remains close beside the body.",
+      "person_1 lowers the side stand with one foot, eases the bicycle onto the support and tests the balance before releasing the saddle.",
+      "person_1 lifts the black helmet off the handlebar, turns the helmet upright and checks the hanging straps with both hands.",
+      "person_1 places the helmet over the short dark hair and brings the two chin-strap ends together, fastening the buckle beneath the chin.",
+      "person_1 pulls the loose strap end to remove slack, checks the fit with the fingertips and looks toward the open court.",
+      "person_1 returns the left hand to the handlebar, straightens the bicycle off the stand and remains standing beside the frame ready to move."
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  ]
+}

@@ -1,0 +1,25 @@
+# CUDA runtime; install PyTorch for your CUDA version first.
+torch>=2.6,<2.9
+torchvision>=0.21,<0.24
+transformers>=4.45,<4.56
+diffusers>=0.33,<0.36
+peft>=0.10,<0.18
+accelerate>=1.4
+numpy>=1.26,<3
+pillow>=10.4
+safetensors
+huggingface-hub
+tokenizers
+sentencepiece
+ftfy
+regex
+einops
+easydict
+tqdm
+imageio
+imageio-ffmpeg
+av
+omegaconf
+scipy
+requests
+packaging
