@@ -4,7 +4,7 @@
 
 **👥 Authors:** [Yang Chen](https://github.com/cheyan9)<sup>1</sup> · [Chengsong Qu](https://github.com/Qthrive)<sup>1</sup> · [Runting Li](https://scholar.google.com/citations?user=CwT5bq4AAAAJ&hl=en)<sup>1</sup> · [Xuemei Zhou](https://www.cwi.nl/en/people/xuemei-zhou/)<sup>2</sup> · [Teng Long](https://tenglon.github.io/)<sup>3</sup> · [Vincent Tao Hu](https://taohu.me/)<sup>1</sup>
 
-<sup>1</sup> Huazhong University of Science and Technology<br>
+<sup>1</sup> School of Software Engineering, Huazhong University of Science and Technology<br>
 <sup>2</sup> Centrum voor Wiskunde en Informatica (CWI)<br>
 <sup>3</sup> University of Trento
 
